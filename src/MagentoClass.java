@@ -106,7 +106,7 @@ public class MagentoClass {
 	@Test(description = "Test 4")
 	public void TestDAddIteams() {
 		
-		
+		System.out.println(SignInSite);
 		
 	}
 	
