@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-03T20:51:55 EEST" name="Default suite" finished-at="2023-06-03T20:52:17 EEST" duration-ms="21415">
+  <suite started-at="2023-07-02T22:45:04 EEST" name="Default suite" finished-at="2023-07-02T22:45:44 EEST" duration-ms="40340">
     <groups>
     </groups>
-    <test started-at="2023-06-03T20:51:55 EEST" name="Default test" finished-at="2023-06-03T20:52:17 EEST" duration-ms="21415">
+    <test started-at="2023-07-02T22:45:04 EEST" name="Default test" finished-at="2023-07-02T22:45:44 EEST" duration-ms="40340">
       <class name="MagentoClass">
-        <test-method is-config="true" signature="MgentoBeforeTest()[pri:0, instance:MagentoClass@2788d0fe]" started-at="2023-06-03T20:51:55 EEST" name="MgentoBeforeTest" finished-at="2023-06-03T20:51:58 EEST" duration-ms="2551" status="PASS">
+        <test-method is-config="true" signature="MgentoBeforeTest()[pri:0, instance:MagentoClass@6a9d5dff]" started-at="2023-07-02T22:45:04 EEST" name="MgentoBeforeTest" finished-at="2023-07-02T22:45:07 EEST" duration-ms="2892" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MgentoBeforeTest -->
-        <test-method signature="TestASignUp()[pri:0, instance:MagentoClass@2788d0fe]" started-at="2023-06-03T20:51:58 EEST" name="TestASignUp" description="Test 1" finished-at="2023-06-03T20:52:07 EEST" duration-ms="9708" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestASignUp -->
-        <test-method signature="TestBSignIn()[pri:0, instance:MagentoClass@2788d0fe]" started-at="2023-06-03T20:52:07 EEST" name="TestBSignIn" description="Test 2" finished-at="2023-06-03T20:52:12 EEST" duration-ms="4881" status="PASS">
+        <test-method signature="TestBSignIn()[pri:0, instance:MagentoClass@6a9d5dff]" started-at="2023-07-02T22:45:07 EEST" name="TestBSignIn" description="Test 2" finished-at="2023-07-02T22:45:12 EEST" duration-ms="5495" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestBSignIn -->
-        <test-method signature="TestCSearchForIteams()[pri:0, instance:MagentoClass@2788d0fe]" started-at="2023-06-03T20:52:12 EEST" name="TestCSearchForIteams" description="Test 3" finished-at="2023-06-03T20:52:17 EEST" duration-ms="4245" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestCSearchForIteams -->
-        <test-method signature="TestDAddIteams()[pri:0, instance:MagentoClass@2788d0fe]" started-at="2023-06-03T20:52:17 EEST" name="TestDAddIteams" description="Test 4" finished-at="2023-06-03T20:52:17 EEST" duration-ms="0" status="PASS">
+        <test-method signature="TestDAddIteams()[pri:0, instance:MagentoClass@6a9d5dff]" started-at="2023-07-02T22:45:12 EEST" name="TestDAddIteams" description="Test 4" finished-at="2023-07-02T22:45:44 EEST" duration-ms="31904" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestDAddIteams -->
-        <test-method is-config="true" signature="MagentoAfterTest()[pri:0, instance:MagentoClass@2788d0fe]" started-at="2023-06-03T20:52:17 EEST" name="MagentoAfterTest" finished-at="2023-06-03T20:52:17 EEST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="MagentoAfterTest()[pri:0, instance:MagentoClass@6a9d5dff]" started-at="2023-07-02T22:45:44 EEST" name="MagentoAfterTest" finished-at="2023-07-02T22:45:44 EEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MagentoAfterTest -->

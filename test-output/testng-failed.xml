@@ -5,9 +5,9 @@
     <classes>
       <class name="MagentoClass">
         <methods>
-          <include name="TestBSignIn"/>
           <include name="MagentoAfterTest"/>
           <include name="MgentoBeforeTest"/>
+          <include name="TestDAddIteams"/>
         </methods>
       </class> <!-- MagentoClass -->
     </classes>
